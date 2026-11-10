@@ -1,0 +1,19 @@
+# Icarus Verilog & GTKWave outputs
+*.vvp
+*.vcd
+*.lxt
+*.fst
+
+# ModelSim / QuestaSim outputs
+work/
+transcript
+vsim.wlf
+*.mti
+*.mpf
+
+# OS & Editor generated files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
